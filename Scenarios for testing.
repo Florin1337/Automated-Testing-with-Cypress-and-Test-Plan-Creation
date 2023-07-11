@@ -1,0 +1,5 @@
+- Test that an user can successfully navigate among the application pages;
+- Test that an user can successfully add a product (of your choice) from the "Laptops" category and place an order;
+- Test that an user can successfully add multipl products from different categories and that he can successfully remove some of them from the cart before submitting the order;
+- Test that an user can successfully send a message to "Contact".
+- Test that an user can successfully sign up and log in.
